@@ -1,6 +1,6 @@
 {
-  "name": "saqlain021-currency-exchange",
-  "version": "1.0.0",
+  "name": "saqlain021-money-exchange",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
